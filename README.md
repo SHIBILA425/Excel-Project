@@ -16,13 +16,14 @@ The dataset contains e-commerce transaction data including:
 - Countries
 - Sales channels
 - Return status
+  
 This data helps evaluate business performance across regions, platforms, and customer purchasing behavior.
 ## Data Preparation
 The following steps were performed to prepare the dataset:
-- Cleaned and transformed raw data using Power Query
+- Cleaned and transformed raw data using **Power Query**
 - Handled missing values and inconsistencies
 - Created calculated columns for analysis
-- Structured the dataset into an Excel table for dynamic dashboard updates
+- Structured the dataset into an **Excel table** for dynamic dashboard updates
 ## Key KPIs
 The dashboard tracks the following metrics:
 - **Total Revenue**
